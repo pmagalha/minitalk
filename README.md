@@ -14,7 +14,7 @@ The Minitalk project consists of creating a client-server program that allows tw
 ## Usage
 #### 1st - Clone the repository
 ``` bash
-git@github.com:MartimPinto/Minitalk.git Minitalk
+git@github.com:pmagalha/Minitalk.git Minitalk
 ```
 #### 2nd - Enter the project folder and run Make or Make bonus
 ``` bash
